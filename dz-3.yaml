@@ -1,0 +1,23 @@
+student:
+  name: Carl
+  surname: First
+  age: 18
+  scholarship: true
+parents:
+  - father: George
+    fatherAge: 45
+    fatherWork: true
+  - mother: Mary
+    motherAge: 40
+    motherWork: false
+siblings:
+  brother: null
+  sister: null
+grandparents: [Joe,Simon]
+string: > 
+  Carl is on
+  full-time mode
+  studying
+bio:|
+  Carl finished school in 2004
+  Carl entered the university in 2004

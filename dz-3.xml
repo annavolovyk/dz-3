@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <student>
+    <name>Carl</name>
+    <surname>First</surname>
+    <age>18</age>
+    <scholarship>true</scholarship>
+  </student>
+  <parents1>
+    <father>George</father>
+    <fatherAge>45</fatherAge>
+    <fatherWork>true</fatherWork>
+  </parents1>
+  <parents2>
+    <mother>Mary</mother>
+    <motherAge>40</motherAge>
+    <motherWork>false</motherWork>
+  </parents2>
+  <siblings category="family tree">
+    <brother/>Yes/No</brother>
+    <sister/>Yes/No</sister>
+  </siblings>
+  <string>Full-Time Mode</string>
+</root>
