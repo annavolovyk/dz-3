@@ -6,19 +6,19 @@
     <age>18</age>
     <scholarship>true</scholarship>
   </student>
-  <parents1>
+  <parents category="father">
     <father>George</father>
     <fatherAge>45</fatherAge>
     <fatherWork>true</fatherWork>
-  </parents1>
-  <parents2>
+  </parents>
+  <parents category="mother">
     <mother>Mary</mother>
     <motherAge>40</motherAge>
     <motherWork>false</motherWork>
-  </parents2>
-  <siblings category="family tree">
-    <brother/>Yes/No</brother>
-    <sister/>Yes/No</sister>
+  </parents>
+  <siblings>
+    <brother/>
+    <sister/>
   </siblings>
   <string>Full-Time Mode</string>
 </root>
