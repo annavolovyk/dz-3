@@ -1,0 +1,25 @@
+{
+  "student": {
+    "name": "Carl",
+    "surname": "First",
+    "age": 18,
+    "scholarship": true
+  },
+  "parents": [
+    {
+      "father": "George",
+      "fatherAge": 45,
+      "fatherWork": true
+    },
+    {
+      "mother": "Mary",
+      "motherAge": 40,
+      "motherWork": false
+    }
+  ],
+  "siblings": {
+    "brother": null,
+    "sister": null
+  },
+  "string": "Full-Time Mode"
+}
